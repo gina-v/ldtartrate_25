@@ -1,0 +1,10 @@
+name: ldtartrate_25
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - fastp
+  - fastqc
+  - megahit
+prefix: /home/gmvaz/miniforge3/envs/ldtartrate_25
